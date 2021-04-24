@@ -8,7 +8,7 @@
 When you want a quick way to save a note and easily retrieve it without using temporary txt files on the desktop or in some remote folder: with WNote everything is organized!
 
 ### How to use it?
-- run the command "note -s" to setup the notes folder (it will be created in your default "My Documents" Windows folder)
+- run the command "wnote -s" to setup the notes folder (it will be created in your default "My Documents" Windows folder)
 - Now you can:
   - create a new note
   - view a note
